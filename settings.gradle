@@ -1,0 +1,3 @@
+include ':animatoolib'
+include ':app'
+rootProject.name = "Task"
